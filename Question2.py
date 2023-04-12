@@ -12,6 +12,7 @@ elif m<0:
 else:
      j=0
      print("Day Approximate     Population")
+     
      while(j<m):
         #printing putput simultaneously
         print(f"{j+1}                 : {s}")
